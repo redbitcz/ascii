@@ -7,3 +7,5 @@
       |_|  \__\ \__,_| |_˛__/|_|\__|
 
 ```
+
+Font generator: https://patorjk.com/software/taag/#p=display&f=Small
